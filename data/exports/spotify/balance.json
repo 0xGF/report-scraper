@@ -1,0 +1,1580 @@
+{
+  "company": "Spotify Technology S.A.",
+  "company_slug": "spotify",
+  "ticker": "SPOT",
+  "exchange": "NYSE",
+  "statement": "balance",
+  "currency": "USD",
+  "unit": "millions",
+  "periods": [
+    "2025-12-31",
+    "2024-12-31",
+    "2023-12-31",
+    "2022-03-31",
+    "2021-12-31",
+    "2020-12-31",
+    "2019-12-31"
+  ],
+  "rows": [
+    {
+      "canonical_name": "Assets",
+      "depth": 0,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 0,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": null,
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Non-current assets",
+      "depth": 1,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 1,
+      "parent_name": "Assets",
+      "values": {
+        "2025-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": null,
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "3960.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "2891.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Lease right-of-use assets",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 2,
+      "parent_name": "Non-current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "234.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "226.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "300.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "443.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "437.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "444.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "489.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Property and equipment",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 3,
+      "parent_name": "Non-current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "188.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "188.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "247.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "369.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "372.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "313.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "291.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Goodwill",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 4,
+      "parent_name": "Non-current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "1083.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "1201.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "1137.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "978.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "894.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "736.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "478.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Intangible assets",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 5,
+      "parent_name": "Non-current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "41.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "48.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "84.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "109.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "89.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "97.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "58.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Long term investments",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 6,
+      "parent_name": "Non-current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "2181.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "1635.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "1215.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "682.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "916.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "2277.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "1497.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Restricted cash and other non-current assets",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 7,
+      "parent_name": "Non-current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "61.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "68.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "75.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "82.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "77.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "78.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "69.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Finance lease receivables",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 8,
+      "parent_name": "Non-current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "69.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "74.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": null,
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Deferred tax assets",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 9,
+      "parent_name": "Non-current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "662.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "186.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "28.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "8.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "13.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "15.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "9.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Current assets",
+      "depth": 1,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 10,
+      "parent_name": "Assets",
+      "values": {
+        "2025-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": null,
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "2366.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "2231.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Trade and other receivables",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 11,
+      "parent_name": "Current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "802.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "771.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "858.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "556.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "621.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "464.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "402.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Income tax receivable",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 12,
+      "parent_name": "Current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "116.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "28.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "20.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "5.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "5.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "4.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "4.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Short term investments",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 13,
+      "parent_name": "Current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "4209.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "2667.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "1100.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "816.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "756.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "596.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "692.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Cash and cash equivalents",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 14,
+      "parent_name": "Current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "5258.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "4781.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "3114.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "2721.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "2744.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "1151.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "1065.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Other current assets",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 15,
+      "parent_name": "Current assets",
+      "values": {
+        "2025-12-31": {
+          "value": "111.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "132.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "168.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "270.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "246.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "151.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "68.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Total assets",
+      "depth": 1,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 16,
+      "parent_name": "Assets",
+      "values": {
+        "2025-12-31": {
+          "value": "15015.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "12005.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "8346.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "7039.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "7170.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "6326.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "5122.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Equity and liabilities",
+      "depth": 0,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 17,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": null,
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Equity",
+      "depth": 1,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 18,
+      "parent_name": "Equity and liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": null,
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Share capital",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 19,
+      "parent_name": "Equity",
+      "values": {
+        "2025-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": null,
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Other paid in capital",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 20,
+      "parent_name": "Equity",
+      "values": {
+        "2025-12-31": {
+          "value": "6496.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "6124.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "5155.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "4789.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "4746.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "4583.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "4192.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Treasury shares",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 21,
+      "parent_name": "Equity",
+      "values": {
+        "2025-12-31": {
+          "value": "-701.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "-262.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-262.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "-262.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-260.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-175.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-370.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Other reserves",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 22,
+      "parent_name": "Equity",
+      "values": {
+        "2025-12-31": {
+          "value": "3366.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "2707.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "1812.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "709.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "853.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "1687.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "924.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Accumulated deficit",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 23,
+      "parent_name": "Equity",
+      "values": {
+        "2025-12-31": {
+          "value": "-832.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "-3044.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-4182.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "-3089.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-3220.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-3290.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-2709.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Equity attributable to owners of the parent",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 24,
+      "parent_name": "Equity",
+      "values": {
+        "2025-12-31": {
+          "value": "8329.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "5525.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "2523.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "2147.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "2119.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "2805.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "2037.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Non-current liabilities",
+      "depth": 1,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 25,
+      "parent_name": "Equity and liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": null,
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "621.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "646.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Exchangeable Notes",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 26,
+      "parent_name": "Non-current liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "1458.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "1203.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "1146.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "1202.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Lease liabilities",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 27,
+      "parent_name": "Non-current liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "433.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "462.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "493.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "587.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "579.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "577.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "622.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Accrued expenses and other liabilities",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 28,
+      "parent_name": "Non-current liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "2589.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "2347.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "2440.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "1882.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "1841.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "1748.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "1438.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Provisions",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 29,
+      "parent_name": "Non-current liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "51.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "25.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "21.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "22.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "22.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "20.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "13.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Deferred tax liabilities",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 30,
+      "parent_name": "Non-current liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "163.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "21.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "8.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "2.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Current liabilities",
+      "depth": 1,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 31,
+      "parent_name": "Equity and liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": null,
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": null,
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "2900.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "2439.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Trade and other payables",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 32,
+      "parent_name": "Current liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "1194.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "1342.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "978.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "695.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "793.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "638.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "549.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Income tax payable",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 33,
+      "parent_name": "Current liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "72.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "33.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "12.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "13.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "23.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "9.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "9.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Deferred revenue",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 34,
+      "parent_name": "Current liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "711.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "683.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "622.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "469.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "458.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "380.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "319.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Derivative liabilities",
+      "depth": 2,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 35,
+      "parent_name": "Current liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "10.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "20.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "17.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "42.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "89.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "105.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "111.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Total liabilities",
+      "depth": 1,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 36,
+      "parent_name": "Equity and liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "6686.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "6480.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "5823.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "4892.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "5051.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Total equity and liabilities",
+      "depth": 1,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 37,
+      "parent_name": "Equity and liabilities",
+      "values": {
+        "2025-12-31": {
+          "value": "15015.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "12005.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "8346.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2022-03-31": {
+          "value": "7039.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "7170.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "6326.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "5122.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    }
+  ]
+}

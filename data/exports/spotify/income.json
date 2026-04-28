@@ -1,0 +1,917 @@
+{
+  "company": "Spotify Technology S.A.",
+  "company_slug": "spotify",
+  "ticker": "SPOT",
+  "exchange": "NYSE",
+  "statement": "income",
+  "currency": "USD",
+  "unit": "millions",
+  "periods": [
+    "2025-12-31",
+    "2024-12-31",
+    "2023-12-31",
+    "2022-12-31",
+    "2020-12-31",
+    "2019-12-31",
+    "2018-12-31",
+    "2017-12-31",
+    "2016-12-31"
+  ],
+  "rows": [
+    {
+      "canonical_name": "Revenue",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 0,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "17186.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "15673.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "13247.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "11727.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "7880.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "6764.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "5259.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "4090.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "2952.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Cost of revenue",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 1,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "11690.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "10949.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "9850.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "8801.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "5865.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "5042.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "3906.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "3241.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "2551.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Gross profit",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 2,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "5496.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "4724.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "3397.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "2926.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "2015.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "1722.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "1353.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "849.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "401.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Research and development",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 3,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "1393.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "1486.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "1725.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "1387.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "837.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "615.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "493.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "396.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "207.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Sales and marketing",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 4,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "1426.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "1392.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "1533.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "1572.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "1029.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "826.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "620.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "567.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "368.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "General and administrative",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 5,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "479.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "481.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "585.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "626.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "442.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "354.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "283.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "264.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "175.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Operating income/(loss)",
+      "depth": 0,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 6,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "2198.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "1365.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-446.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-659.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-293.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-73.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-43.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-378.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "-349.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Finance income",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 7,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "292.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "328.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "161.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "421.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "94.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "275.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "455.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "118.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "152.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Finance costs",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 8,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "-266.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "-352.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-220.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-132.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-510.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-333.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-584.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-974.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "-336.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Finance income/(costs) - net",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 9,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "26.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "-24.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-59.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "289.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-416.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-58.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-130.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-855.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "-186.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Income/(loss) before tax",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 10,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "2224.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "1341.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-505.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-370.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-709.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-131.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-173.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-1233.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "-535.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Income tax expense",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 11,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "12.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "203.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "27.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "60.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-128.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "55.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-95.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "2.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "4.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net income/(loss) attributable to owners of the parent",
+      "depth": 0,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 12,
+      "parent_name": null,
+      "values": {
+        "2025-12-31": {
+          "value": "2212.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "1138.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-532.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-430.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-581.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-186.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-78.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-1235.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "-539.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Earnings/(loss) per share attributable to owners of the parent",
+      "depth": 0,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 13,
+      "parent_name": null,
+      "values": {
+        "2020-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Basic",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 14,
+      "parent_name": "Earnings/(loss) per share attributable to owners of the parent",
+      "values": {
+        "2025-12-31": {
+          "value": "205412951.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "200622518.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "194732304.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "192934862.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "187583307.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "180960579.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "177154405.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "151668769.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "148368720.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Diluted",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 15,
+      "parent_name": "Earnings/(loss) per share attributable to owners of the parent",
+      "values": {
+        "2025-12-31": {
+          "value": "210509173.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2024-12-31": {
+          "value": "206990369.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "194732304.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "195846362.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "187583307.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "180960579.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "181210292.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "151668769.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "148368720.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Weighted-average ordinary shares outstanding",
+      "depth": 0,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 16,
+      "parent_name": null,
+      "values": {
+        "2020-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        }
+      }
+    }
+  ]
+}

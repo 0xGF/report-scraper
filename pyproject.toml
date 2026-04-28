@@ -1,0 +1,43 @@
+[tool.uv.workspace]
+members = ["packages/report-scrape", "packages/report-discover", "apps/pipeline"]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.7",
+    "mypy>=1.11",
+    "pytest>=8.3",
+    "pytest-cov>=5.0",
+    "pre-commit>=3.8",
+    "ipython>=8.26",
+    "types-requests",
+    "types-PyYAML",
+    "lxml-stubs",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+src = ["packages/report-scrape/src", "packages/report-discover/src", "apps/pipeline/src"]
+extend-exclude = ["apps/web"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP", "B", "SIM", "RUF"]
+
+[tool.ruff.lint.per-file-ignores]
+"**/tests/**" = ["PLR2004", "S101"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+warn_unreachable = true
+explicit_package_bases = true
+mypy_path = ["packages/report-scrape/src", "packages/report-discover/src", "apps/pipeline/src"]
+exclude = ["apps/web"]
+
+[[tool.mypy.overrides]]
+module = ["pdfplumber.*", "camelot.*", "selectolax.*", "duckdb.*", "diskcache.*", "pypdfium2.*"]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["packages/report-scrape/tests", "packages/report-discover/tests", "apps/pipeline/tests"]
+addopts = "-ra --strict-markers"

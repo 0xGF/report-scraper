@@ -1,0 +1,214 @@
+companies:
+  sap:
+    name: SAP SE
+    ticker: SAP
+    exchange: XETRA
+    reporting_currency: EUR
+    ir_url: https://www.sap.com/investor.html
+    website: https://www.sap.com
+    logo_url: /logos/sap.png
+    description: Global leader in enterprise application software (ERP, HCM, CRM,
+      Analytics). Reports in EUR; SEC-registered as a foreign private issuer.
+    sector: Enterprise software
+    headquarters: Walldorf, Germany
+    founded: 1972
+    source_note: Filings sourced via SEC EDGAR (Form 20-F).
+    market_ticker: SAP.DE
+    shares_outstanding_m: 1228
+    sources:
+    - name: sap:sec-edgar-20f
+      label: sap:20-f
+      direct_urls:
+      - https://www.sec.gov/Archives/edgar/data/1000184/000110465926020058/sap-20251231x20f.htm
+      - https://www.sec.gov/Archives/edgar/data/1000184/000110465925017815/sap-20241224x20f.htm
+      - https://www.sec.gov/Archives/edgar/data/1000184/000110465924029038/sap-20231231x20f.htm
+      - https://www.sec.gov/Archives/edgar/data/1000184/000110465923027626/sap-20221231x20f.htm
+      - https://www.sec.gov/Archives/edgar/data/1000184/000110465922029675/sap-20211231x20f.htm
+      - https://www.sec.gov/Archives/edgar/data/1000184/000110465921031847/sap-20201231x20f.htm
+      - https://www.sec.gov/Archives/edgar/data/1000184/000110465920025681/sap-20191231x20f6ea59a.htm
+      - https://www.sec.gov/Archives/edgar/data/1000184/000110465919011304/a18-38214_120f.htm
+      - https://www.sec.gov/Archives/edgar/data/1000184/000110465918013050/a17-27645_420f.htm
+      - https://www.sec.gov/Archives/edgar/data/1000184/000119312517060157/d344005d20f.htm
+  asml:
+    name: ASML Holding N.V.
+    ticker: ASML
+    exchange: AEX
+    reporting_currency: EUR
+    ir_url: https://www.asml.com/en/investors
+    website: https://www.asml.com
+    logo_url: /logos/asml.png
+    description: Sole producer of EUV lithography systems used to manufacture the
+      most advanced logic and memory chips. Reports in EUR.
+    sector: Semiconductor lithography
+    headquarters: Veldhoven, Netherlands
+    founded: 1984
+    source_note: Filings scraped from asml.com investor archive.
+    market_ticker: ASML.AS
+    shares_outstanding_m: 389
+    sources:
+    - name: asml:annual-reports
+      label: asml:annual-report
+      entry_urls:
+      - https://www.asml.com/en/investors/annual-report
+      follow_links: /investors/annual-report/\d{4}$
+      link_filter: \.pdf($|\?)
+      max_follow_depth: 1
+  dassault:
+    name: Dassault Systèmes SE
+    ticker: DSY
+    exchange: EURONEXT
+    reporting_currency: EUR
+    ir_url: https://investor.3ds.com/
+    website: https://www.3ds.com
+    logo_url: /logos/dassault.png
+    description: Maker of CATIA, SOLIDWORKS, and the 3DEXPERIENCE platform — used
+      across aerospace, automotive, and life sciences. Reports in EUR.
+    sector: 3D design / PLM software
+    headquarters: Vélizy-Villacoublay, France
+    founded: 1981
+    source_note: Filings scraped from investor.3ds.com (Universal Registration Document).
+    market_ticker: DSY.PA
+    shares_outstanding_m: 1323
+    sources:
+    - name: dassault:annual-reports
+      label: dassault:annual-report
+      entry_urls:
+      - https://investor.3ds.com/earnings-reports/annual-report/
+      link_filter: (\.pdf($|\?)|/static-files/[a-f0-9-]{8,})
+  heineken:
+    name: Heineken N.V.
+    ticker: HEIA
+    exchange: AEX
+    reporting_currency: EUR
+    ir_url: https://www.theheinekencompany.com/reports
+    website: https://www.theheinekencompany.com
+    logo_url: /logos/heineken.svg
+    description: Dutch multinational brewer producing and marketing beer and cider
+      brands worldwide, including Heineken.
+    sector: Consumer Staples
+    headquarters: Amsterdam, Netherlands
+    founded: 1864
+    market_ticker: HEIA.AS
+    shares_outstanding_m: 576.0
+    sources:
+    - name: heineken:annual-reports
+      label: annual-reports
+      entry_urls:
+      - https://www.theheinekencompany.com/reports
+      direct_urls:
+      - https://www.theheinekencompany.com/sites/heineken-corp/files/2026-02/2025_Heineken_NV_Annual_Report_Interactive_100226_FINAL.pdf
+      - https://www.theheinekencompany.com/sites/heineken-corp/files/2025-02/heineken_n_v_annual_report_2024_final_20feb2025.pdf
+      - https://www.theheinekencompany.com/sites/heineken-corp/files/heineken-corp/investors/governance/agm/2023/heineken-nv-annual-report-02-2023.pdf
+      - https://www.theheinekencompany.com/sites/heineken-corp/files/heineken-corp/investors/governance/agm/2021/heineken-nv-annual-report-2021-25-02-2022.pdf
+      - https://www.theheinekencompany.com/sites/heineken-corp/files/heineken-corp/sustainability-and-responsibility/our-progress/reporting-centre/2022/heineken-nv-annual-report-2021-25-02-2022.pdf
+      - https://www.theheinekencompany.com/sites/heineken-corp/files/heineken-corp/investors/governance/agm/2021/heineken-nv-annual-report-2020.pdf
+      - https://www.theheinekencompany.com/sites/heineken-corp/files/heineken-corp/investors/governance/agm/2020/heineken-nv-hnv-2019-annual-report.pdf
+      - https://www.theheinekencompany.com/sites/heineken-corp/files/heineken-corp/investors/governance/agm/2019/heineken-nv-2018-annual-report.pdf
+      - https://www.theheinekencompany.com/sites/heineken-corp/files/heineken-corp/investors/governance/agm/2018/heineken-nv-annual-report-2017.pdf
+      link_filter: .*\.pdf(\?|$)
+  inditex:
+    name: Industria de Diseño Textil, S.A. (Inditex)
+    ticker: ITX
+    exchange: BME
+    reporting_currency: EUR
+    ir_url: https://www.inditex.com/annual_report/2023/en/downloads/
+    website: https://www.inditex.com
+    logo_url: /logos/inditex.svg
+    description: Spanish multinational fashion retailer best known for Zara and other
+      brands (Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho, Zara Home, Lefties).
+    sector: Consumer Discretionary
+    headquarters: Arteixo (A Coruña), Spain
+    founded: 1985
+    market_ticker: ITX.MC
+    shares_outstanding_m: 3117.0
+    sources:
+    - name: inditex:annual-reports
+      label: annual-report-pdfs
+      entry_urls:
+      - https://www.inditex.com/annual_report/2023/en/downloads/
+      - https://www.inditex.com/annual_report/2022/en/downloads/
+      - https://www.inditex.com/annual_report/2021/en/downloads/
+      direct_urls:
+      - https://www.inditex.com/itxcomweb/api/media/604197b9-50de-4f4f-ab84-c1e379cb3fd0/Inditex_Group_Annual_Report_2024.pdf
+      - https://www.inditex.com/itxcomweb/api/media/84135f02-0208-4439-b9c0-b13608fbfeb5/Annualaccountsanddirectorsreport2024consolidated.pdf
+      - https://www.inditex.com/itxcomweb/api/media/a5e66655-21a7-4f49-a288-e6e145435731/IARFY2024_ENG.pdf?t=1742203079532
+      - https://static.inditex.com/annual_report_2023/en/Inditex_Group_Annual_Accounts_2023.pdf
+      - https://static.inditex.com/annual_report_2023/en/Consolidated_Annual_Accounts_Inditex_Group%202023.pdf
+      - https://static.inditex.com/annual_report_2022/pdf/Inditex-group-annual-report-2022.pdf
+      - https://static.inditex.com/annual_report_2022/pdf/Consolidated-annual-accounts-2022.pdf
+      - https://www.inditex.com/itxcomweb/api/media/e8099751-3c82-47e8-8c59-903bcf99e79a/Inditex%202022%20Consolidated%20Annual%20Accounts.pdf
+      - https://static.inditex.com/annual_report_2021/en/documents/annual_report_2021.pdf
+      - https://static.inditex.com/annual_report_2021/en/documents/consolidated-annual-accounts-2021.pdf
+      - https://www.inditex.com/itxcomweb/api/media/5d3b3aec-3d72-41a0-9abd-275f2ac4a14c/2021%20Inditex%20Consolidated%20Annual%20Accounts.pdf
+      - https://www.inditex.com/itxcomweb/api/media/8ba991ee-382e-4d95-8595-a5763c9d7e5d/2020_annual_accounts__management_report_and_auditors_report_of_inditex_group.pdf?t=1655305845616
+      - https://www.inditex.com/itxcomweb/api/media/155f8bf3-3c2b-4e05-b872-25e3c3a45bbe/cuentas_anuales_e_informe_de_gestion_grupo_inditex_2020.pdf?t=1655305850887
+      - https://static.inditex.com/annual_report_2019/pdfs/en/memoria/2019-Inditex-Annual-Report.pdf
+      - https://static.inditex.com/annual_report_2019/pdfs/en/memoria/annual-accounts.pdf
+      - https://static.inditex.com/annual_report_2019/pdfs/es/memoria/memoria-anual-inditex-2019.pdf
+      - https://static.inditex.com/annual_report_2018/pdfs/en/Inditex%20Annual%20Report%202018.pdf
+      - https://static.inditex.com/annual_report_2018/pdfs/en/Annual%20Accounts.pdf
+      - https://www.inditex.com/itxcomweb/api/media/6a950aba-0c1f-4111-a750-b29bb0dc247f/2019_annual_general_meeting_annual_accounts_directors_report.pdf?t=1655305604289
+      - https://www.inditex.com/itxcomweb/api/media/8ba991ee-382e-4d95-8595-a5763c9d7e5d/2020_annual_accounts__management_report_and_auditors_report_of_inditex_group.pdf
+      - https://static.zara.net/static/joinlife/2020_Inditex_Annual_Report.pdf
+      - https://static.inditex.com/annual_report_2021/en/documents/inditex-consolidated-annual-acounts-2017.pdf
+      - https://static.inditex.com/annual_report_2017/assets/pdf/memoria_en.pdf
+      - https://static.inditex.com/annual_report_2021/en/documents/inditex-consolidated-annual-acounts-2016.pdf
+      - https://static.inditex.com/annual_report_2021/en/documents/annual-report-2016.pdf
+      link_filter: .*\.pdf(\?|$)
+  adyen:
+    name: Adyen N.V.
+    ticker: ADYEN
+    exchange: Euronext Amsterdam
+    reporting_currency: EUR
+    ir_url: https://www.adyen.com/investor-relations/annual-reports
+    website: https://www.adyen.com
+    logo_url: https://upload.wikimedia.org/wikipedia/commons/3/3e/Adyen_Company_Logo.png
+    description: Adyen is a global payment company offering merchants online services
+      for accepting electronic payments via credit cards, debit cards, bank transfer,
+      and real-time bank transfer based on online banking.
+    sector: Information Technology
+    headquarters: Amsterdam, Netherlands
+    founded: 2006
+    market_ticker: ADYEN.AS
+    shares_outstanding_m: 31.0
+    sources:
+    - name: adyen:annual-reports
+      entry_urls:
+      - https://www.adyen.com/investor-relations/annual-reports
+      direct_urls:
+      - https://s29.q4cdn.com/175625835/files/doc_financials/2024/ar/Annual-Report-2024.pdf
+      - https://s29.q4cdn.com/175625835/files/doc_financials/2018/AR/2018-AR.pdf
+      - https://s23.q4cdn.com/669804705/files/doc_financials/2023/ar/Annual-Report-10K-Combined-PDF.pdf
+      - https://uploads2.craft.co/uploads/operating_source/document/928203/573fbabbfaa83fd9.pdf
+      - https://www.accc.gov.au/system/files/public-registers/documents/44.%20Adyen%202019%20Annual%20Report.pdf
+      link_filter: .*\.pdf(\?|$)
+  spotify:
+    name: Spotify Technology S.A.
+    ticker: SPOT
+    exchange: NYSE
+    reporting_currency: USD
+    ir_url: https://investors.spotify.com/financials/annual-reports/default.aspx
+    website: https://www.spotify.com
+    logo_url: https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg
+    description: Spotify is a digital music service that gives you access to millions
+      of songs.
+    sector: Communication Services
+    headquarters: Stockholm, Sweden
+    founded: 2006
+    market_ticker: SPOT
+    shares_outstanding_m: 1000.0
+    sources:
+    - name: spotify:annual-reports
+      entry_urls:
+      - https://investors.spotify.com/financials/annual-reports/default.aspx
+      direct_urls:
+      - https://www.sec.gov/Archives/edgar/data/1639920/000162828026006874/ck0001639920-20251231.htm
+      - https://www.sec.gov/Archives/edgar/data/1639920/000163992025000003/ck0001639920-20241231.htm
+      - https://www.sec.gov/Archives/edgar/data/1639920/000163992024000004/ck0001639920-20231231.htm
+      - https://www.sec.gov/Archives/edgar/data/1639920/000163992023000004/ck0001639920-20221231.htm
+      - https://www.sec.gov/Archives/edgar/data/1639920/000163992022000004/ck0001639920-20211231.htm
+      - https://www.sec.gov/Archives/edgar/data/1639920/000163992021000006/ck0001639920-20201231.htm
+      - https://www.sec.gov/Archives/edgar/data/1639920/000156459020004357/ck0001639920-20f_20191231.htm
+      - https://www.sec.gov/Archives/edgar/data/1639920/000156459019002688/ck0001639920-20f_20181231.htm
+      - https://d18rn0p25nwr6d.cloudfront.net/CIK-0001639920/55ed6eb9-217c-44f2-bac5-1d58f79782e1.pdf
+      link_filter: .*\.pdf(\?|$)

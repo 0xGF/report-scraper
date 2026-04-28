@@ -1,0 +1,16 @@
+{
+  "name": "report-scrape",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.14.0",
+  "scripts": {
+    "dev": "pnpm --filter @report-scrape/web dev",
+    "build": "pnpm --filter @report-scrape/web build",
+    "lint": "pnpm --filter @report-scrape/web lint",
+    "typecheck": "pnpm --filter @report-scrape/web typecheck"
+  },
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=10"
+  }
+}

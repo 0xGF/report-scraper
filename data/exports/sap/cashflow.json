@@ -1,0 +1,2277 @@
+{
+  "company": "SAP SE",
+  "company_slug": "sap",
+  "ticker": "SAP",
+  "exchange": "XETRA",
+  "statement": "cashflow",
+  "currency": "EUR",
+  "unit": "millions",
+  "periods": [
+    "2024-12-31",
+    "2023-12-31",
+    "2022-12-31",
+    "2021-12-31",
+    "2020-12-31",
+    "2019-12-31",
+    "2018-12-31",
+    "2017-12-31",
+    "2016-12-31",
+    "2015-12-31"
+  ],
+  "rows": [
+    {
+      "canonical_name": "Profit (loss) after tax",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 0,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "3150.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "5964.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "1708.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "5376.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "5283.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "3370.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "4088.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "4046.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": true
+        },
+        "2016-12-31": {
+          "value": "3629.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": true
+        },
+        "2015-12-31": {
+          "value": "3056.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "depth": 0,
+      "is_header": true,
+      "is_total": false,
+      "display_order": 1,
+      "parent_name": null,
+      "values": {}
+    },
+    {
+      "canonical_name": "(Profit) loss after tax from discontinued operations",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 2,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-2363.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "1359.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "1447.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Depreciation and amortization",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 3,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "1280.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "1373.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "1569.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "1537.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "1831.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "1872.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "1362.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "1272.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "1268.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "1289.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Share-based payment expense",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 4,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "2385.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "2220.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "1431.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "1335.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "1084.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "1835.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "830.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "1120.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Income tax expense",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 5,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "1614.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "1741.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "1446.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "1682.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "1938.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "1226.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "1511.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "983.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": true
+        },
+        "2016-12-31": {
+          "value": "1242.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": true
+        },
+        "2015-12-31": {
+          "value": "935.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Financial income, net",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 6,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "-398.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "456.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "1389.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "-2178.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "-776.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-198.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "47.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-188.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "29.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": true
+        },
+        "2015-12-31": {
+          "value": "5.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Increase/decrease in allowances on trade receivables",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 7,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "30.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-10.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "77.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "-9.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "68.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "14.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-67.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-32.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Other adjustments for non-cash items",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 8,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "110.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "23.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-175.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "15.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "-198.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-54.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "3.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-9.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "39.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Increase/decrease in trade and other receivables",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 9,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "-247.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-393.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "196.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "497.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "821.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-1469.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "136.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-309.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Increase/decrease in other assets",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 10,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "-632.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-700.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-1213.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "-645.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "-651.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-583.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-477.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-325.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Increase/decrease in trade payables, provisions, and other liabilities",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 11,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "603.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "633.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "154.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "429.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "293.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "328.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "240.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": true
+        },
+        "2017-12-31": {
+          "value": "63.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": true
+        },
+        "2016-12-31": {
+          "value": "513.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "757.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Increase/decrease in contract liabilities",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 12,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "869.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "443.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "643.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "-59.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "128.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "984.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-561.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "718.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "368.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Share-based payments",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 13,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "-1282.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-1091.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-1180.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "-1056.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "-1310.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-1257.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-971.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-849.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Income taxes paid, net of refunds",
+      "depth": 1,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 14,
+      "parent_name": "Adjustments to reconcile profit (loss) after tax to net cash flows from operating activities:",
+      "values": {
+        "2024-12-31": {
+          "value": "-2277.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-2161.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-1642.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "-2047.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "-1194.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-2329.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-1687.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-1332.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net cash flows from operating activities \u2013 continuing operations",
+      "depth": 0,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 15,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "5207.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2023-12-31": {
+          "value": "6134.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2022-12-31": {
+          "value": "5675.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "6182.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net cash flows from operating activities \u2013 discontinued operations",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 16,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "113.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2022-12-31": {
+          "value": "-29.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "41.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net cash flows from operating activities",
+      "depth": 0,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 17,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "5207.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2023-12-31": {
+          "value": "6246.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2022-12-31": {
+          "value": "5647.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "6223.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "7194.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "3496.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "4303.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "5045.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "4628.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "3638.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Business combinations, net of cash and cash equivalents acquired",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 18,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-1114.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-1168.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-679.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-1032.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "-662.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-6215.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-2140.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-291.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Cash flows from derivative financial instruments related to the sale of subsidiaries or businesses",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 19,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-91.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "203.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "61.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Purchase of intangible assets and property, plant, and equipment",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 20,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-797.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-785.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-877.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "-701.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "-816.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-817.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-1458.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-1275.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Proceeds from sales of intangible assets and property, plant, and equipment",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 21,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "122.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "99.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "95.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "89.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "88.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "71.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "57.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "97.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "63.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "68.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Purchase of equity or debt instruments of other entities",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 22,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-6401.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-3566.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-2320.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-4368.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-2535.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-900.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-1013.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-2914.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Proceeds from sales of equity or debt instruments of other entities",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 23,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "7533.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "907.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "4190.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "3229.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "735.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "778.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "1488.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "3272.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "793.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "1880.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Interest received",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 24,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "563.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "469.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "156.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "56.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "122.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "97.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "99.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "88.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "79.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "82.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net cash flows from investing activities \u2013 continuing operations",
+      "depth": 0,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 25,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-93.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2023-12-31": {
+          "value": "-4134.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2022-12-31": {
+          "value": "699.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-2856.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net cash flows from investing activities \u2013 discontinued operations",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 26,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "5523.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2022-12-31": {
+          "value": "-32.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-208.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net cash flows from investing activities",
+      "depth": 0,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 27,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-93.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2023-12-31": {
+          "value": "1389.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2022-12-31": {
+          "value": "667.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-3063.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-2986.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-7021.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-3066.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-1112.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Dividends paid",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 28,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-2565.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-2395.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-2865.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-2182.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-1864.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-1790.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-1671.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-1499.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Dividends paid on non-controlling interests",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 29,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-1.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-13.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-12.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-54.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-2.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-17.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-7.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-45.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Purchase of treasury shares",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 30,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-2106.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-949.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-1500.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-1492.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-500.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Proceeds from borrowings",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 31,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "2767.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "13.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "158.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "1680.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "2132.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "3622.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "6368.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "27.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "443.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": true
+        },
+        "2015-12-31": {
+          "value": "1748.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Repayments of borrowings",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 32,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-1185.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-4081.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-1445.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-1952.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-2430.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-1309.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-1407.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-1391.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Payments of lease liabilities",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 33,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-310.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-332.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-410.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "-375.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "-378.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-403.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Transactions with non-controlling interests",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 34,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-11.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-2.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-59.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "2.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "3.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Interest paid",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 35,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-550.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-393.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "-244.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": true
+        },
+        "2021-12-31": {
+          "value": "-198.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": true
+        },
+        "2020-12-31": {
+          "value": "-244.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-341.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "-251.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-200.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net cash flows from financing activities \u2013 continuing operations",
+      "depth": 0,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 36,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-3961.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2023-12-31": {
+          "value": "-8151.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2022-12-31": {
+          "value": "-6074.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-2885.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net cash flows from financing activities \u2013 discontinued operations",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 37,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "0.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "20.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2022-12-31": {
+          "value": "-263.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "2828.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net cash flows from financing activities",
+      "depth": 0,
+      "is_header": false,
+      "is_total": true,
+      "display_order": 38,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "-3961.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2023-12-31": {
+          "value": "-8131.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": true
+        },
+        "2022-12-31": {
+          "value": "-6337.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "-56.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-3997.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "102.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "3283.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-3406.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": null,
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Effect of foreign currency rates on cash and cash equivalents",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 39,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "333.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-388.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "134.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "484.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-214.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "110.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "97.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "-218.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "167.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "135.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Net increase/decrease in cash and cash equivalents",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 40,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "1485.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "-883.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "109.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "3587.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "-4.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "-3313.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "4617.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "309.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "291.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "83.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Cash and cash equivalents at the beginning of the period",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 41,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "8124.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "9008.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "8898.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "5311.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "5314.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "8627.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "4011.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "3702.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "3411.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "3328.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    },
+    {
+      "canonical_name": "Cash and cash equivalents at the end of the period",
+      "depth": 0,
+      "is_header": false,
+      "is_total": false,
+      "display_order": 42,
+      "parent_name": null,
+      "values": {
+        "2024-12-31": {
+          "value": "9609.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2023-12-31": {
+          "value": "8124.0000",
+          "source_fiscal_year": 2025,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "9008.0000",
+          "source_fiscal_year": 2024,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": "8898.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "5311.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": "5314.0000",
+          "source_fiscal_year": 2021,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": "8627.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": "4011.0000",
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2016-12-31": {
+          "value": "3702.0000",
+          "source_fiscal_year": 2018,
+          "is_restated": false
+        },
+        "2015-12-31": {
+          "value": "3411.0000",
+          "source_fiscal_year": 2017,
+          "is_restated": false
+        }
+      }
+    }
+  ]
+}
