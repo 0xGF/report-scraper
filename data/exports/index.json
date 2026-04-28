@@ -97,6 +97,22 @@
       "has_data": true
     },
     {
+      "slug": "wise",
+      "name": "Wise plc",
+      "ticker": "WISE",
+      "exchange": "LSE",
+      "reporting_currency": "GBP",
+      "ir_url": "https://wise.com/gb/investors/reports",
+      "website": "https://wise.com",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Wise_logo.svg",
+      "description": "Wise is a financial technology company that specializes in international money transfers.",
+      "sector": "Financials",
+      "headquarters": "London, United Kingdom",
+      "founded": 2010,
+      "source_note": null,
+      "has_data": true
+    },
+    {
       "slug": "spotify",
       "name": "Spotify Technology S.A.",
       "ticker": "SPOT",
@@ -508,6 +524,55 @@
       "rows": 48
     },
     {
+      "company_slug": "wise",
+      "company_name": "Wise plc",
+      "ticker": "WISE",
+      "statement": "income",
+      "periods": [
+        "2025-12-31",
+        "2024-12-31",
+        "2023-12-31",
+        "2022-12-31",
+        "2021-12-31",
+        "2020-12-31",
+        "2019-12-31"
+      ],
+      "rows": 15
+    },
+    {
+      "company_slug": "wise",
+      "company_name": "Wise plc",
+      "ticker": "WISE",
+      "statement": "balance",
+      "periods": [
+        "2025-12-31",
+        "2024-12-31",
+        "2024-03-31",
+        "2023-03-31",
+        "2020-09-30",
+        "2019-09-30"
+      ],
+      "rows": 21
+    },
+    {
+      "company_slug": "wise",
+      "company_name": "Wise plc",
+      "ticker": "WISE",
+      "statement": "cashflow",
+      "periods": [
+        "2025-12-31",
+        "2024-12-31",
+        "2024-03-31",
+        "2023-12-31",
+        "2023-03-31",
+        "2022-12-31",
+        "2021-12-31",
+        "2020-12-31",
+        "2019-12-31"
+      ],
+      "rows": 19
+    },
+    {
       "company_slug": "spotify",
       "company_name": "Spotify Technology S.A.",
       "ticker": "SPOT",
@@ -517,13 +582,14 @@
         "2024-12-31",
         "2023-12-31",
         "2022-12-31",
+        "2021-12-31",
         "2020-12-31",
         "2019-12-31",
         "2018-12-31",
         "2017-12-31",
         "2016-12-31"
       ],
-      "rows": 17
+      "rows": 16
     },
     {
       "company_slug": "spotify",
@@ -534,12 +600,14 @@
         "2025-12-31",
         "2024-12-31",
         "2023-12-31",
-        "2022-03-31",
+        "2022-12-31",
         "2021-12-31",
         "2020-12-31",
-        "2019-12-31"
+        "2019-12-31",
+        "2018-12-31",
+        "2017-12-31"
       ],
-      "rows": 38
+      "rows": 37
     },
     {
       "company_slug": "spotify",
@@ -551,11 +619,12 @@
         "2024-12-31",
         "2023-12-31",
         "2022-12-31",
-        "2022-03-31",
-        "2021-03-31",
+        "2021-12-31",
         "2020-12-31",
         "2019-12-31",
-        "2018-12-31"
+        "2018-12-31",
+        "2017-12-31",
+        "2016-12-31"
       ],
       "rows": 46
     }

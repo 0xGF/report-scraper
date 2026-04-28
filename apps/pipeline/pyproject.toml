@@ -2,7 +2,6 @@
 name = "pipeline"
 version = "0.1.0"
 description = "Pipeline that scrapes, parses, normalizes, stores, and exports European annual-report financial statements"
-readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "report-scrape[playwright]",

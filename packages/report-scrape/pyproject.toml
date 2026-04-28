@@ -2,7 +2,6 @@
 name = "report-scrape"
 version = "0.1.0"
 description = "Reusable scraper for investor-relations sites: PDF discovery, download, SHA-cached storage, Wayback fallback"
-readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "curl-cffi>=0.7",

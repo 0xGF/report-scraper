@@ -125,6 +125,7 @@ def _playwright_render(url: str, *, timeout_ms: int = 15000) -> str | None:
         log.warning("agent.playwright_failed", err=str(e)[:120], url=url[:120])
         return None
 
+
 # Quick-and-dirty title extractor — captures `<title>...</title>`. The
 # title is the only freeform-text signal we keep when distilling a
 # page; everything else is anchor-shaped.
@@ -324,9 +325,7 @@ def _sec_lookup_cik(ticker_or_name: str) -> str | None:
     reliable than scraping EDGAR's HTML search.
     """
     try:
-        with httpx.Client(
-            timeout=15.0, headers={"User-Agent": _SEC_USER_AGENT}
-        ) as c:
+        with httpx.Client(timeout=15.0, headers={"User-Agent": _SEC_USER_AGENT}) as c:
             r = c.get("https://www.sec.gov/files/company_tickers.json")
             if r.status_code >= 400:
                 return None
@@ -335,10 +334,7 @@ def _sec_lookup_cik(ticker_or_name: str) -> str | None:
         return None
     needle = ticker_or_name.strip().lower()
     for entry in data.values():
-        if (
-            entry.get("ticker", "").lower() == needle
-            or needle in entry.get("title", "").lower()
-        ):
+        if entry.get("ticker", "").lower() == needle or needle in entry.get("title", "").lower():
             cik = str(entry.get("cik_str", "")).zfill(10)
             return cik or None
     return None
@@ -356,9 +352,7 @@ def _sec_recent_filings(
     """
     cik_padded = cik.zfill(10)
     try:
-        with httpx.Client(
-            timeout=15.0, headers={"User-Agent": _SEC_USER_AGENT}
-        ) as c:
+        with httpx.Client(timeout=15.0, headers={"User-Agent": _SEC_USER_AGENT}) as c:
             r = c.get(f"https://data.sec.gov/submissions/CIK{cik_padded}.json")
             if r.status_code >= 400:
                 return []
@@ -378,10 +372,7 @@ def _sec_recent_filings(
         if i >= len(accessions) or i >= len(primary) or i >= len(dates):
             continue
         accession_clean = accessions[i].replace("-", "")
-        url = (
-            f"https://www.sec.gov/Archives/edgar/data/{bare_cik}/"
-            f"{accession_clean}/{primary[i]}"
-        )
+        url = f"https://www.sec.gov/Archives/edgar/data/{bare_cik}/{accession_clean}/{primary[i]}"
         out.append(
             {
                 "form": f,
@@ -393,9 +384,7 @@ def _sec_recent_filings(
     return out
 
 
-def _build_executor(
-    seed: str, *, web_search: WebSearchClient | None
-) -> tuple[Any, Any]:
+def _build_executor(seed: str, *, web_search: WebSearchClient | None) -> tuple[Any, Any]:
     """Returns (executor, cache) for the agent's tool calls.
 
     The executor used to enforce a same-org filter on every URL the
@@ -535,9 +524,7 @@ def _build_executor(
             return f"EDGAR lookup OK (CIK={cik}) but no filings of {forms} on file."
         lines = [f"SEC EDGAR filings for {ticker_or_name} (CIK={cik}):"]
         for row in rows[:20]:
-            lines.append(
-                f"  - {row['filing_date']}  {row['form']}  url={row['url']}"
-            )
+            lines.append(f"  - {row['filing_date']}  {row['form']}  url={row['url']}")
         return "\n".join(lines)
 
     def executor(name: str, args: dict[str, Any]) -> str:
@@ -552,11 +539,7 @@ def _build_executor(
             )
         if name == "sec_filings":
             forms_raw = args.get("form_types")
-            forms = (
-                [str(f) for f in forms_raw]
-                if isinstance(forms_raw, list)
-                else None
-            )
+            forms = [str(f) for f in forms_raw] if isinstance(forms_raw, list) else None
             return sec_filings(str(args.get("ticker_or_name", "")), forms)
         return f"ERROR: unknown tool `{name}`"
 

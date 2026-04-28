@@ -10,10 +10,12 @@
     "2025-12-31",
     "2024-12-31",
     "2023-12-31",
-    "2022-03-31",
+    "2022-12-31",
     "2021-12-31",
     "2020-12-31",
-    "2019-12-31"
+    "2019-12-31",
+    "2018-12-31",
+    "2017-12-31"
   ],
   "rows": [
     {
@@ -25,18 +27,48 @@
       "parent_name": null,
       "values": {
         "2025-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "15015.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "12005.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": null,
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -44,34 +76,54 @@
     {
       "canonical_name": "Non-current assets",
       "depth": 1,
-      "is_header": true,
+      "is_header": false,
       "is_total": false,
       "display_order": 1,
       "parent_name": "Assets",
       "values": {
         "2025-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "4519.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "3626.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": null,
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2020-12-31": {
-          "value": "3960.0000",
+          "value": null,
           "source_fiscal_year": 2020,
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "2891.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -86,26 +138,26 @@
       "values": {
         "2025-12-31": {
           "value": "234.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "226.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "300.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "443.0000",
+        "2022-12-31": {
+          "value": "417.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "437.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -115,8 +167,13 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "489.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
           "is_restated": false
         }
       }
@@ -131,26 +188,26 @@
       "values": {
         "2025-12-31": {
           "value": "188.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "188.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "247.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "369.0000",
+        "2022-12-31": {
+          "value": "348.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "372.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -160,8 +217,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "291.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -176,26 +243,26 @@
       "values": {
         "2025-12-31": {
           "value": "1083.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "1201.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "1137.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "978.0000",
+        "2022-12-31": {
+          "value": "1168.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "894.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -205,8 +272,13 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "478.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
           "is_restated": false
         }
       }
@@ -221,26 +293,26 @@
       "values": {
         "2025-12-31": {
           "value": "41.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "48.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "84.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "109.0000",
+        "2022-12-31": {
+          "value": "127.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "89.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -250,8 +322,13 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "58.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
           "is_restated": false
         }
       }
@@ -266,26 +343,26 @@
       "values": {
         "2025-12-31": {
           "value": "2181.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "1635.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "1215.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "682.0000",
+        "2022-12-31": {
+          "value": "1138.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "916.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -295,8 +372,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "1497.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -311,26 +398,26 @@
       "values": {
         "2025-12-31": {
           "value": "61.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "68.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "75.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "82.0000",
+        "2022-12-31": {
+          "value": "78.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "77.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -340,8 +427,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "69.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -356,17 +453,12 @@
       "values": {
         "2025-12-31": {
           "value": "69.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "74.0000",
-          "source_fiscal_year": 2025,
-          "is_restated": false
-        },
-        "2023-12-31": {
-          "value": null,
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2026,
           "is_restated": false
         }
       }
@@ -381,26 +473,26 @@
       "values": {
         "2025-12-31": {
           "value": "662.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "186.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "28.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
+        "2022-12-31": {
           "value": "8.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "13.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -410,8 +502,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "9.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -419,34 +521,54 @@
     {
       "canonical_name": "Current assets",
       "depth": 1,
-      "is_header": true,
+      "is_header": false,
       "is_total": false,
       "display_order": 10,
       "parent_name": "Assets",
       "values": {
         "2025-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "10496.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "8379.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": null,
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2020-12-31": {
-          "value": "2366.0000",
+          "value": null,
           "source_fiscal_year": 2020,
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "2231.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -461,26 +583,26 @@
       "values": {
         "2025-12-31": {
           "value": "802.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "771.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "858.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "556.0000",
+        "2022-12-31": {
+          "value": "690.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "621.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -490,8 +612,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "402.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -506,26 +638,26 @@
       "values": {
         "2025-12-31": {
           "value": "116.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "28.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "20.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
+        "2022-12-31": {
           "value": "5.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "5.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -535,8 +667,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "4.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -551,26 +693,26 @@
       "values": {
         "2025-12-31": {
           "value": "4209.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "2667.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "1100.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "816.0000",
+        "2022-12-31": {
+          "value": "867.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "756.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -580,8 +722,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "692.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -596,26 +748,26 @@
       "values": {
         "2025-12-31": {
           "value": "5258.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "4781.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "3114.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "2721.0000",
+        "2022-12-31": {
+          "value": "2483.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "2744.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -625,8 +777,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "1065.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -641,26 +803,26 @@
       "values": {
         "2025-12-31": {
           "value": "111.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "132.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "168.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "270.0000",
+        "2022-12-31": {
+          "value": "307.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "246.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -670,8 +832,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "68.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -682,30 +854,30 @@
       "is_header": false,
       "is_total": true,
       "display_order": 16,
-      "parent_name": "Assets",
+      "parent_name": null,
       "values": {
         "2025-12-31": {
           "value": "15015.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "12005.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "8346.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "7039.0000",
+        "2022-12-31": {
+          "value": "7636.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "7170.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -715,8 +887,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "5122.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -730,18 +912,48 @@
       "parent_name": null,
       "values": {
         "2025-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "15015.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "12005.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": null,
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -749,24 +961,54 @@
     {
       "canonical_name": "Equity",
       "depth": 1,
-      "is_header": true,
+      "is_header": false,
       "is_total": false,
       "display_order": 18,
       "parent_name": "Equity and liabilities",
       "values": {
         "2025-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "8329.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "5525.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
+          "value": "2523.0000",
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "2401.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
           "value": null,
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "2805.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -781,20 +1023,20 @@
       "values": {
         "2025-12-31": {
           "value": null,
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": null,
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": null,
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
+        "2022-12-31": {
           "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
@@ -812,6 +1054,16 @@
         "2019-12-31": {
           "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -826,26 +1078,26 @@
       "values": {
         "2025-12-31": {
           "value": "6496.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "6124.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "5155.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
+        "2022-12-31": {
           "value": "4789.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "4746.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -855,8 +1107,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "4192.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -871,26 +1133,26 @@
       "values": {
         "2025-12-31": {
           "value": "-701.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "-262.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "-262.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
+        "2022-12-31": {
           "value": "-262.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "-260.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -900,8 +1162,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "-370.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -916,26 +1188,26 @@
       "values": {
         "2025-12-31": {
           "value": "3366.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "2707.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "1812.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "709.0000",
+        "2022-12-31": {
+          "value": "1521.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "853.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -945,8 +1217,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "924.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -961,26 +1243,26 @@
       "values": {
         "2025-12-31": {
           "value": "-832.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "-3044.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "-4182.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "-3089.0000",
+        "2022-12-31": {
+          "value": "-3647.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "-3220.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -990,53 +1272,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "-2709.0000",
-          "source_fiscal_year": 2020,
-          "is_restated": false
-        }
-      }
-    },
-    {
-      "canonical_name": "Equity attributable to owners of the parent",
-      "depth": 2,
-      "is_header": false,
-      "is_total": false,
-      "display_order": 24,
-      "parent_name": "Equity",
-      "values": {
-        "2025-12-31": {
-          "value": "8329.0000",
-          "source_fiscal_year": 2025,
-          "is_restated": false
-        },
-        "2024-12-31": {
-          "value": "5525.0000",
-          "source_fiscal_year": 2025,
-          "is_restated": false
-        },
-        "2023-12-31": {
-          "value": "2523.0000",
-          "source_fiscal_year": 2024,
-          "is_restated": false
-        },
-        "2022-03-31": {
-          "value": "2147.0000",
-          "source_fiscal_year": 2022,
-          "is_restated": false
-        },
-        "2021-12-31": {
-          "value": "2119.0000",
-          "source_fiscal_year": 2022,
-          "is_restated": false
-        },
-        "2020-12-31": {
-          "value": "2805.0000",
+          "value": null,
           "source_fiscal_year": 2020,
           "is_restated": false
         },
-        "2019-12-31": {
-          "value": "2037.0000",
-          "source_fiscal_year": 2020,
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1044,34 +1291,54 @@
     {
       "canonical_name": "Non-current liabilities",
       "depth": 1,
-      "is_header": true,
+      "is_header": false,
       "is_total": false,
-      "display_order": 25,
+      "display_order": 24,
       "parent_name": "Equity and liabilities",
       "values": {
         "2025-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "601.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "2030.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": null,
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2020-12-31": {
-          "value": "621.0000",
+          "value": null,
           "source_fiscal_year": 2020,
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "646.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1081,31 +1348,31 @@
       "depth": 2,
       "is_header": false,
       "is_total": false,
-      "display_order": 26,
+      "display_order": 25,
       "parent_name": "Non-current liabilities",
       "values": {
         "2025-12-31": {
           "value": "1458.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "1539.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "1203.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "1146.0000",
+        "2022-12-31": {
+          "value": "1128.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "1202.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         }
@@ -1116,31 +1383,31 @@
       "depth": 2,
       "is_header": false,
       "is_total": false,
-      "display_order": 27,
+      "display_order": 26,
       "parent_name": "Non-current liabilities",
       "values": {
         "2025-12-31": {
           "value": "433.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "462.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "493.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "587.0000",
+        "2022-12-31": {
+          "value": "555.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "579.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -1150,8 +1417,13 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "622.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
           "is_restated": false
         }
       }
@@ -1161,31 +1433,31 @@
       "depth": 2,
       "is_header": false,
       "is_total": false,
-      "display_order": 28,
+      "display_order": 27,
       "parent_name": "Non-current liabilities",
       "values": {
         "2025-12-31": {
           "value": "2589.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "2347.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "2440.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "1882.0000",
+        "2022-12-31": {
+          "value": "2093.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "1841.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -1195,8 +1467,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "1438.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1206,31 +1488,31 @@
       "depth": 2,
       "is_header": false,
       "is_total": false,
-      "display_order": 29,
+      "display_order": 28,
       "parent_name": "Non-current liabilities",
       "values": {
         "2025-12-31": {
-          "value": "51.0000",
-          "source_fiscal_year": 2025,
-          "is_restated": false
+          "value": "3.0000",
+          "source_fiscal_year": 2026,
+          "is_restated": true
         },
         "2024-12-31": {
-          "value": "25.0000",
-          "source_fiscal_year": 2025,
-          "is_restated": false
+          "value": "3.0000",
+          "source_fiscal_year": 2026,
+          "is_restated": true
         },
         "2023-12-31": {
           "value": "21.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "22.0000",
+        "2022-12-31": {
+          "value": "26.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "22.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -1240,8 +1522,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "13.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1251,22 +1543,32 @@
       "depth": 2,
       "is_header": false,
       "is_total": false,
-      "display_order": 30,
+      "display_order": 29,
       "parent_name": "Non-current liabilities",
       "values": {
         "2025-12-31": {
           "value": "163.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "21.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "8.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": "5.0000",
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2020-12-31": {
@@ -1275,8 +1577,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "2.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1284,34 +1596,54 @@
     {
       "canonical_name": "Current liabilities",
       "depth": 1,
-      "is_header": true,
+      "is_header": false,
       "is_total": false,
-      "display_order": 31,
+      "display_order": 30,
       "parent_name": "Equity and liabilities",
       "values": {
         "2025-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "6085.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
-          "value": null,
-          "source_fiscal_year": 2025,
+          "value": "4450.0000",
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": null,
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
+          "is_restated": false
+        },
+        "2022-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2021-12-31": {
+          "value": null,
+          "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2020-12-31": {
-          "value": "2900.0000",
+          "value": null,
           "source_fiscal_year": 2020,
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "2439.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1321,31 +1653,31 @@
       "depth": 2,
       "is_header": false,
       "is_total": false,
-      "display_order": 32,
+      "display_order": 31,
       "parent_name": "Current liabilities",
       "values": {
         "2025-12-31": {
           "value": "1194.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "1342.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "978.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "695.0000",
+        "2022-12-31": {
+          "value": "845.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "793.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -1355,8 +1687,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "549.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1366,31 +1708,31 @@
       "depth": 2,
       "is_header": false,
       "is_total": false,
-      "display_order": 33,
+      "display_order": 32,
       "parent_name": "Current liabilities",
       "values": {
         "2025-12-31": {
           "value": "72.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "33.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "12.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "13.0000",
+        "2022-12-31": {
+          "value": "11.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "23.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -1400,8 +1742,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "9.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1411,31 +1763,31 @@
       "depth": 2,
       "is_header": false,
       "is_total": false,
-      "display_order": 34,
+      "display_order": 33,
       "parent_name": "Current liabilities",
       "values": {
         "2025-12-31": {
           "value": "711.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "683.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "622.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "469.0000",
+        "2022-12-31": {
+          "value": "520.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "458.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -1445,8 +1797,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "319.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1456,31 +1818,31 @@
       "depth": 2,
       "is_header": false,
       "is_total": false,
-      "display_order": 35,
+      "display_order": 34,
       "parent_name": "Current liabilities",
       "values": {
         "2025-12-31": {
           "value": "10.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "20.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "17.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "42.0000",
+        "2022-12-31": {
+          "value": "21.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "89.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -1490,8 +1852,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "111.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1501,32 +1873,52 @@
       "depth": 1,
       "is_header": false,
       "is_total": true,
-      "display_order": 36,
-      "parent_name": "Equity and liabilities",
+      "display_order": 35,
+      "parent_name": null,
       "values": {
         "2025-12-31": {
           "value": "6686.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "6480.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "5823.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "4892.0000",
+        "2022-12-31": {
+          "value": "5235.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "5051.0000",
+          "value": null,
           "source_fiscal_year": 2022,
+          "is_restated": false
+        },
+        "2020-12-31": {
+          "value": "3521.0000",
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2019-12-31": {
+          "value": null,
+          "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
@@ -1536,31 +1928,31 @@
       "depth": 1,
       "is_header": false,
       "is_total": true,
-      "display_order": 37,
-      "parent_name": "Equity and liabilities",
+      "display_order": 36,
+      "parent_name": null,
       "values": {
         "2025-12-31": {
           "value": "15015.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2024-12-31": {
           "value": "12005.0000",
-          "source_fiscal_year": 2025,
+          "source_fiscal_year": 2026,
           "is_restated": false
         },
         "2023-12-31": {
           "value": "8346.0000",
-          "source_fiscal_year": 2024,
+          "source_fiscal_year": 2023,
           "is_restated": false
         },
-        "2022-03-31": {
-          "value": "7039.0000",
+        "2022-12-31": {
+          "value": "7636.0000",
           "source_fiscal_year": 2022,
           "is_restated": false
         },
         "2021-12-31": {
-          "value": "7170.0000",
+          "value": null,
           "source_fiscal_year": 2022,
           "is_restated": false
         },
@@ -1570,8 +1962,18 @@
           "is_restated": false
         },
         "2019-12-31": {
-          "value": "5122.0000",
+          "value": null,
           "source_fiscal_year": 2020,
+          "is_restated": false
+        },
+        "2018-12-31": {
+          "value": null,
+          "source_fiscal_year": 2019,
+          "is_restated": false
+        },
+        "2017-12-31": {
+          "value": null,
+          "source_fiscal_year": 2018,
           "is_restated": false
         }
       }
